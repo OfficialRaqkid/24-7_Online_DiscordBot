@@ -17,6 +17,12 @@ Try to use this<br>
 ```npm install discord.js@latest && npm install express```<br>
 ```npm install dotenv```<br>
 
+# Configuration
+
+Go to or click the .env.example file (you can create your own .env file) and rename from .env.example to .env file and put your Discord Bot Token in the `TOKEN=PUT_YOUR_TOKEN_HERE`<br>
+
+# Start the codes
+
 Then if the installation is done...<br>
 Try to start the codes using<br>
 ```npm run start```<br>
